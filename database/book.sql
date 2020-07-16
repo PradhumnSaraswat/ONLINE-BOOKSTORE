@@ -1,7 +1,6 @@
 ﻿-- phpMyAdmin SQL Dump
 -- version 3.2.0.1
 -- http://www.phpmyadmin.net
---
 -- Host: localhost
 -- Server version: 5.1.36
 -- PHP Version: 5.3.0
